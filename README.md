@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Terry-Yuxiang
 - 👀 I’m interested in playing basketball, NBA games, and esport games.
 - 🌱 I’m currently learning computer science at USC.
-- 🧷 I'm looking for 2024 summer internship.
 - 💞️ I’m looking to collaborate on Java projects.
 - 📫 How to reach me ...(Leave your message)
 
